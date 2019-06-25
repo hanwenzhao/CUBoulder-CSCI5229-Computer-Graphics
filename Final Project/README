@@ -1,0 +1,36 @@
+Final Project
+
+Hanwen Zhao
+CSCI4229/5229 Fall 2017
+
+Key bindings
+	Esc	Exit
+	-	Decrease fov
+	+	Increase fov
+	1	Switch to town viewing mode
+		0		Reset view angle
+		d/D		Increase th
+		a/A		Decrease th
+		w/W		Increase ph
+		s/S		Decrease ph
+		PgDn/PgUp	Zoom in and out
+		arrows		Change view angle
+	2	Switch to driving mode
+		w/W		Drive forward
+		s/S		Drive backward
+		a/A		Turn left
+		d/D		Turn right
+	3	Switch first person town viewing mode
+		w/W		Move camera forward
+		a/A		Move camera left
+		d/D		Move camera right
+		s/S		Move camera backward
+		r/R		Move camera up
+		f/F		Move camera down
+		q/Q		Rotate camera left
+		e/E		Rotate camera right
+
+Note: Collision detection for buildings
+	if car run into the building, 
+	it can not go forward or backward depend on the situation
+	you can rotate the car direction and bypass the building

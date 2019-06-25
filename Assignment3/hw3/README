@@ -1,0 +1,21 @@
+Homework4:  Projections and Navigation Assignment
+/*
+ *  Homework #4
+ *
+ *  Demonstrates how to draw objects in 3D.
+ *  orthogonal & prespective projections & first person view
+ *
+ *  Key bindings:
+ *  1/2/3        Toggle between orthogonal perspective, and first person view
+ *  r          Toggle axes
+ *  arrows     Change view angle
+ *  0          Reset view angle
+ *  First Person View
+ *  w          Forward
+ *  a          Left
+ *  s          Backward
+ *  d          Right
+ *  q          Rotate Left
+ *  e          Rotate Right
+ *  ESC        Exit
+ */

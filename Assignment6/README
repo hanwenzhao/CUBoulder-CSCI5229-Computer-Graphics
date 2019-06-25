@@ -1,0 +1,24 @@
+Homework6: Lighting and Textures
+
+Hanwen Zhao
+CSCI4229/5229 Fall 2017
+
+Demonstrates the basic scene using lighting and textures.
+
+Key bindings
+  l          Toggle lighting on/off
+  m          Toggles texture mode modulate/replace
+  a/A        decrease/increase ambient light
+  d/D        decrease/increase diffuse light
+  s/S        decrease/increase specular light
+  e/E        decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  []         Lower/rise light
+  x          Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+
+
+Hours to Complete: ~6 

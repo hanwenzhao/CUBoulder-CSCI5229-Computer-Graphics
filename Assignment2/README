@@ -1,0 +1,23 @@
+Assignment2
+
+Hanwen Zhao
+CSCI4229/5229 Fall 2017
+
+/*
+ *  Lorenz Attractor
+ *
+ *  Display dimensional coordinates in 3D with Lorenz Attractor.
+ *
+ *  Key bindings:
+ *  s      Randomly change Lorenz Parameter s
+ *  b      Randomly change Lorenz Parameter b
+ *  r      Randomly change Lorenz Parameter r
+ *  =/-    Increase/decrease w
+ *  arrows Change view angle
+ *  0      Reset view angle
+ *  q      Reset default Lorenz parameters
+ *  ESC    Exit
+ */
+
+
+Time to Complete: 5h
